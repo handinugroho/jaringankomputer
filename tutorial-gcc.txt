@@ -1,3 +1,0 @@
-buat gcc file pake mbedtls:
-
-gcc -o <asdasd> asdasd.c -lmbedcrypto
