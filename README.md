@@ -1,8 +1,10 @@
 # Tugas #3 jaringan komputer
-
 Kriptografi dengan library mbedTLS. Program ESP32 dibuild menggunakan Arduino IDE.
 
-#Tutorial compile and build dengan mbedTLS:
+# Library mbedTLS:
+https://github.com/ARMmbed/mbedtls
+
+# Tutorial compile and build dengan mbedTLS:
 gcc -o <nama-program> <nama-file.c> -lmbedcrypto
 
 # Anggota:
