@@ -1,7 +1,9 @@
 # Tugas #3 jaringan komputer
 
-Kriptografi dibuat dengan library mbedTLS. Program ESP32 dibuild menggunakan Arduino IDE.
+Kriptografi dengan library mbedTLS. Program ESP32 dibuild menggunakan Arduino IDE.
+
+#Tutorial compile and build dengan mbedTLS:
+gcc -o <nama-program> <nama-file.c> -lmbedcrypto
 
 # Anggota:
-Handi Nugroho Setiawan (13216028)\n
-Vincent Oktavian Kaulika (13216115)
+Handi Nugroho Setiawan (13216028), Vincent Oktavian Kaulika (13216115)
