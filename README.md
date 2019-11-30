@@ -3,5 +3,5 @@
 Kriptografi dibuat dengan library mbedTLS. Program ESP32 dibuild menggunakan Arduino IDE.
 
 # Anggota:
-Handi Nugroho Setiawan (13216028)
+Handi Nugroho Setiawan (13216028)\n
 Vincent Oktavian Kaulika (13216115)
